@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\bin\Debug\netcoreapp3.1\OperacoesDoLINQ.exe
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\bin\Debug\netcoreapp3.1\OperacoesDoLINQ.deps.json
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\bin\Debug\netcoreapp3.1\OperacoesDoLINQ.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\bin\Debug\netcoreapp3.1\OperacoesDoLINQ.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\bin\Debug\netcoreapp3.1\OperacoesDoLINQ.dll
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\bin\Debug\netcoreapp3.1\OperacoesDoLINQ.pdb
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\obj\Debug\netcoreapp3.1\OperacoesDoLINQ.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\obj\Debug\netcoreapp3.1\OperacoesDoLINQ.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\obj\Debug\netcoreapp3.1\OperacoesDoLINQ.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\obj\Debug\netcoreapp3.1\OperacoesDoLINQ.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\obj\Debug\netcoreapp3.1\OperacoesDoLINQ.dll
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\obj\Debug\netcoreapp3.1\OperacoesDoLINQ.pdb
+C:\ProgramasCSharp\ConceitoDeLinq\OperacoesDoLinq\OperacoesDoLINQ\OperacoesDoLINQ\obj\Debug\netcoreapp3.1\OperacoesDoLINQ.genruntimeconfig.cache
